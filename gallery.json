@@ -1,66 +1,10 @@
 [
   {
-    "src": "assets/screens/feature-cast.jpg",
-    "title": "Casting from iPhone",
-    "platform": "iphone",
-    "width": 1600,
-    "height": 1000
-  },
-  {
-    "src": "assets/screens/feature-guide.jpg",
-    "title": "Programme guide on iPad",
-    "platform": "ipad",
-    "width": 1600,
-    "height": 1000
-  },
-  {
-    "src": "assets/screens/feature-offline.jpg",
-    "title": "Offline library on iPad",
-    "platform": "ipad",
-    "width": 1600,
-    "height": 1000
-  },
-  {
     "src": "assets/screens/feature-player.jpg",
     "title": "Player on Mac",
     "platform": "mac",
     "width": 1600,
     "height": 1000
-  },
-  {
-    "src": "assets/screens/film-poster.jpg",
-    "title": "Film cover",
-    "platform": "compositions",
-    "width": 1920,
-    "height": 1080
-  },
-  {
-    "src": "assets/screens/hero-dark.jpg",
-    "title": "Every screen, dark composition",
-    "platform": "compositions",
-    "width": 2400,
-    "height": 1200
-  },
-  {
-    "src": "assets/screens/hero-light.jpg",
-    "title": "Every screen, light composition",
-    "platform": "compositions",
-    "width": 2400,
-    "height": 1200
-  },
-  {
-    "src": "assets/screens/ipad-01-home.jpg",
-    "title": "Home on iPad",
-    "platform": "ipad",
-    "width": 1376,
-    "height": 1032
-  },
-  {
-    "src": "assets/screens/ipad-04-player.jpg",
-    "title": "Player on iPad",
-    "platform": "ipad",
-    "width": 1376,
-    "height": 1032
   },
   {
     "src": "assets/screens/iphone-01-home.jpg",
@@ -84,74 +28,18 @@
     "height": 1434
   },
   {
-    "src": "assets/screens/iphone-06-cast.jpg",
-    "title": "Cast picker on iPhone",
-    "platform": "iphone",
-    "width": 660,
-    "height": 1434
+    "src": "assets/screens/ipad-01-home.jpg",
+    "title": "Home on iPad",
+    "platform": "ipad",
+    "width": 1376,
+    "height": 1032
   },
   {
-    "src": "assets/screens/tv-audio-preview.jpg",
-    "title": "Audio track preview",
-    "platform": "tv",
-    "width": 1920,
-    "height": 1080
-  },
-  {
-    "src": "assets/screens/tv-carousel-offset.jpg",
-    "title": "Browsing the movie carousel",
-    "platform": "tv",
-    "width": 1920,
-    "height": 1080
-  },
-  {
-    "src": "assets/screens/tv-compact-version-menu.jpg",
-    "title": "Compact version selection",
-    "platform": "tv",
-    "width": 1920,
-    "height": 1080
-  },
-  {
-    "src": "assets/screens/tv-continue-context-menu.jpg",
-    "title": "Continue Watching options",
-    "platform": "tv",
-    "width": 1920,
-    "height": 1080
-  },
-  {
-    "src": "assets/screens/tv-guide-fast-scroll.jpg",
-    "title": "Guide during rapid navigation",
-    "platform": "tv",
-    "width": 1920,
-    "height": 1080
-  },
-  {
-    "src": "assets/screens/tv-guide-focus.jpg",
-    "title": "Channel preview in the guide",
-    "platform": "tv",
-    "width": 1920,
-    "height": 1080
-  },
-  {
-    "src": "assets/screens/tv-guide.jpg",
-    "title": "Programme guide on Apple TV",
-    "platform": "tv",
-    "width": 1920,
-    "height": 1080
-  },
-  {
-    "src": "assets/screens/tv-home-after-tab-switch.jpg",
-    "title": "Returning to Home",
-    "platform": "tv",
-    "width": 1920,
-    "height": 1080
-  },
-  {
-    "src": "assets/screens/tv-home-row-entry.jpg",
-    "title": "Browsing Home rows",
-    "platform": "tv",
-    "width": 1920,
-    "height": 1080
+    "src": "assets/screens/ipad-04-player.jpg",
+    "title": "Player on iPad",
+    "platform": "ipad",
+    "width": 1376,
+    "height": 1032
   },
   {
     "src": "assets/screens/tv-home.jpg",
@@ -161,8 +49,8 @@
     "height": 1080
   },
   {
-    "src": "assets/screens/tv-live-player.jpg",
-    "title": "Live channel playback",
+    "src": "assets/screens/tv-guide.jpg",
+    "title": "Programme guide on Apple TV",
     "platform": "tv",
     "width": 1920,
     "height": 1080
@@ -182,104 +70,6 @@
     "height": 1080
   },
   {
-    "src": "assets/screens/tv-movie-related.jpg",
-    "title": "Related movies",
-    "platform": "tv",
-    "width": 1920,
-    "height": 1080
-  },
-  {
-    "src": "assets/screens/tv-movie-versions.jpg",
-    "title": "Alternative movie versions",
-    "platform": "tv",
-    "width": 1920,
-    "height": 1080
-  },
-  {
-    "src": "assets/screens/tv-movies.jpg",
-    "title": "Movies on Apple TV",
-    "platform": "tv",
-    "width": 1920,
-    "height": 1080
-  },
-  {
-    "src": "assets/screens/tv-phone-confirmation.jpg",
-    "title": "Phone source confirmation",
-    "platform": "tv",
-    "width": 1920,
-    "height": 1080
-  },
-  {
-    "src": "assets/screens/tv-player-episodes.jpg",
-    "title": "Episode picker",
-    "platform": "tv",
-    "width": 1920,
-    "height": 1080
-  },
-  {
-    "src": "assets/screens/tv-poster-context-menu.jpg",
-    "title": "Movie library options",
-    "platform": "tv",
-    "width": 1920,
-    "height": 1080
-  },
-  {
-    "src": "assets/screens/tv-poster-focus-left.jpg",
-    "title": "Movie library, left selection",
-    "platform": "tv",
-    "width": 1920,
-    "height": 1080
-  },
-  {
-    "src": "assets/screens/tv-poster-focus-return.jpg",
-    "title": "Returning to the movie library",
-    "platform": "tv",
-    "width": 1920,
-    "height": 1080
-  },
-  {
-    "src": "assets/screens/tv-poster-focus-right.jpg",
-    "title": "Movie library, right selection",
-    "platform": "tv",
-    "width": 1920,
-    "height": 1080
-  },
-  {
-    "src": "assets/screens/tv-quick-channels.jpg",
-    "title": "Quick channel selection",
-    "platform": "tv",
-    "width": 1920,
-    "height": 1080
-  },
-  {
-    "src": "assets/screens/tv-search.jpg",
-    "title": "Library search",
-    "platform": "tv",
-    "width": 1920,
-    "height": 1080
-  },
-  {
-    "src": "assets/screens/tv-series-episode-focus.jpg",
-    "title": "Focused series episode",
-    "platform": "tv",
-    "width": 1920,
-    "height": 1080
-  },
-  {
-    "src": "assets/screens/tv-series-season-selected.jpg",
-    "title": "Selected series season",
-    "platform": "tv",
-    "width": 1920,
-    "height": 1080
-  },
-  {
-    "src": "assets/screens/tv-series-seasons.jpg",
-    "title": "Series seasons",
-    "platform": "tv",
-    "width": 1920,
-    "height": 1080
-  },
-  {
     "src": "assets/screens/tv-series.jpg",
     "title": "Series detail page",
     "platform": "tv",
@@ -287,57 +77,8 @@
     "height": 1080
   },
   {
-    "src": "assets/screens/tv-settings.jpg",
-    "title": "Settings and preferences",
-    "platform": "tv",
-    "width": 1920,
-    "height": 1080
-  },
-  {
-    "src": "assets/screens/tv-source-error.jpg",
-    "title": "Source connection error",
-    "platform": "tv",
-    "width": 1920,
-    "height": 1080
-  },
-  {
-    "src": "assets/screens/tv-source-progress.jpg",
-    "title": "Source connection progress",
-    "platform": "tv",
-    "width": 1920,
-    "height": 1080
-  },
-  {
-    "src": "assets/screens/tv-source-setup.jpg",
-    "title": "Add a source with your phone",
-    "platform": "tv",
-    "width": 1920,
-    "height": 1080
-  },
-  {
     "src": "assets/screens/tv-subtitle-styles.jpg",
     "title": "Subtitle appearance",
-    "platform": "tv",
-    "width": 1920,
-    "height": 1080
-  },
-  {
-    "src": "assets/screens/tv-top-shelf.jpg",
-    "title": "Continue Watching in Top Shelf",
-    "platform": "tv",
-    "width": 1920,
-    "height": 1080
-  },
-  {
-    "src": "assets/screens/tv-tracks.jpg",
-    "title": "Audio and subtitle selection",
-    "platform": "tv",
-    "width": 1920,
-    "height": 1080
-  },
-  {
-    "src": "assets/screens/tv-tv-fields.jpg",
-    "title": "Source entry on TV",
     "platform": "tv",
     "width": 1920,
     "height": 1080
