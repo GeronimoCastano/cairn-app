@@ -1,0 +1,22 @@
+Cairn Proprietary License
+Copyright © 2026 Geronimo Castaño. All rights reserved.
+
+Cairn's original application code, branding, and original assets are proprietary.
+No permission to copy, modify, redistribute, sublicense, or commercially use them
+is granted by making this repository accessible. Use of a distributed app is
+subject to its applicable end-user license and App Store usage rules.
+
+Third-party software and assets retain their own licenses. Nothing in these
+terms limits rights granted by those licenses, including the right to modify
+LGPL libraries, relink Cairn with compatible modified versions, and reverse
+engineer the combined work for debugging those modifications. Relink materials
+are licensed for that purpose; this does not grant a general license to Cairn's
+source code. Notices: https://geronimocastano.github.io/cairn-app/notices.html
+
+This license applies prospectively to copyright owned by Geronimo Castaño.
+Copies previously distributed under the MIT License retain their MIT rights.
+It does not relicense third-party contributions without their owners' consent.
+
+To the extent permitted by applicable law, the software is provided "as is",
+without warranty. The copyright holder is not liable for damages arising from
+its use. Mandatory consumer rights are unaffected.
